@@ -1,0 +1,32 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://cdn.falauniversidades.com.br/wp-content/uploads/2020/04/02122231/ead-1.jpg",
+            "name": "Cursos",
+            "description": "Descrição do produto",
+            "price": 4989
+        },
+        {
+            "id": 2,
+            "photo": "https://maistreinamento.com.br/blog/wp-content/uploads/2018/07/treinamento-de-equipe-1170x780.png",
+            "name": "Treinamentos",
+            "description": "Descrição do produto",
+            "price": 5989
+        },
+        {
+            "id": 3,
+            "photo": "https://blog.handtalk.me/wp-content/uploads/2018/06/048-imagem-post-apresentacoes-acessiveis.png",
+            "name": "Palestras",
+            "description": "Descrição do produto",
+            "price": 3989
+        },
+        {
+            "id": 4,
+            "photo": "http://ctjunior.com.br/ct/wp-content/uploads/2019/08/CONSUL-768x576.gif",
+            "name": "Consultoria",
+            "description": "Descrição do produto",
+            "price": 6989
+        }
+    ]
+}
